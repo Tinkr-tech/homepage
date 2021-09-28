@@ -1,3 +1,9 @@
 h1 {
     text-align: center;
 }
+
+p {
+    max-width: 450px;
+    text-align: center;
+    margin: auto;
+}
