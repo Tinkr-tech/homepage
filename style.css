@@ -18,3 +18,7 @@ img {
 * {
     margin-top: 30px !important;
 }
+
+body {
+    background-color: rgb(176, 224, 247);
+}
